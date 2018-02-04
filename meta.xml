@@ -1,0 +1,12 @@
+<meta>
+    <info name="Fireworks" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+    <script src="Fireworks.js" type="client" lang="javascript" />
+
+    <!-- Settings -->
+    <settings>
+        <setting name="fireworksPerPlayer" value="10" default="10" description="Amount of fireworks a player can place." />
+    </settings>
+</meta>
